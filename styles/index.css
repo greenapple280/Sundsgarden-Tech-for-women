@@ -1,0 +1,36 @@
+h1 {
+    font-size: 52px;
+    color: black;
+}
+
+h3 {
+    text-align: center;
+    font-size: 24px;
+    color: black;
+}
+
+p {
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.intraduction {
+    max-width: 1280px;
+    height: 800px;
+    background-image: url(../images/bg1.jpg);
+    background-repeat: no-repeat;
+    padding-left: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.intraduction-btn {
+    width: 200px;
+    height: 64px;
+    border-radius: 100px;
+    display: inline-block;
+}
